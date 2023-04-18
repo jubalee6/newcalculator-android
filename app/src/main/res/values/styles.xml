@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Line Style. -->
+    <style name="lineHorizentalStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/line_1</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:contentDescription">@string/text_dummy</item>
+    </style>
+
+    <style name="shape_button_circle_style">
+        <item name="android:textColor">#43B340</item>
+
+    </style>
+
+</resources>
